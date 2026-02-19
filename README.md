@@ -21,7 +21,7 @@ enseñaremos a transformarlo
 
 ## Tecnologías
 - Cmd
-- powerhsell
+- powershell
 
 <br>
 
