@@ -28,8 +28,8 @@ enseñaremos a transformarlo
 ## 📦 Instalación
 
 ```
-  git clone ...
-  cd 
+  git clone https://github.com/miush-env/labs-script.git
+  cd labs-script
   Right-click and click in edit
   Right-click and click on Open or Run 
 ```
